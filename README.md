@@ -74,7 +74,7 @@ curl -X GET "https://number-api-d4ye5.kinsta.app/api/classify-number?number=371"
 ### Error Response (400 Bad Request)
 ```json
 {
-    "number": "invalid",
+    "number": "alphabet",
     "error": true
 }
 ```
