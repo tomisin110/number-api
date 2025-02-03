@@ -1,4 +1,4 @@
-#HNG Stage One Task Number Classification API
+## HNG Stage One Task Number Classification API
 
 ## Description
 The **Number Classification API** is a simple RESTful API built with Laravel. It takes a number as input and returns interesting mathematical properties about it, along with a fun fact.
