@@ -14,7 +14,7 @@ class NumberController extends Controller
 
         if (!is_numeric($number)) {
             return response()->json([
-                'number' => $number,
+                'number' => 'alphabet',
                 'error' => true
             ], 400);
         }
